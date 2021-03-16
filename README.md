@@ -1,4 +1,4 @@
-## Seja bem-vindo a HOME do meu github! 👋
+## Seja bem-vindo ao meu github! 👋
 
 <img align="center" alt="danba340 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrigokulb&show_icons=true&hide_border=true&theme=dracula" />
 
