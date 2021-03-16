@@ -1,5 +1,6 @@
 ## Seja bem-vindo ao meu github! 👋
 
+<img align="right" width="200" alt="danba340 Github Stats" src="daftpunktocat-thomas.gif" />
 <img align="center" alt="danba340 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrigokulb&show_icons=true&hide_border=true&theme=dracula" />
 
 ### Links:
