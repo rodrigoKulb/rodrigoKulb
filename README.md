@@ -15,7 +15,7 @@
 [<img align="left" alt="YouTube" width="30%" src="https://i.ytimg.com/vi/eUP1lZ7O85U/hq720.jpg" />](https://youtu.be/eUP1lZ7O85U)
 [<img align="left" alt="YouTube" width="30%" src="https://i.ytimg.com/vi/-Hg4N5tlrkM/hq720.jpg" />](https://youtu.be/-Hg4N5tlrkM)
 [<img align="left" alt="YouTube" width="30%" src="https://i.ytimg.com/vi/tDWFp7gK5sk/hq720.jpg" />](https://youtu.be/tDWFp7gK5sk)
-<br /><br />
+
 [<img align="left" alt="YouTube" width="30%" src="https://i.ytimg.com/vi/gU0Sxris0oU/hq720.jpg" />](https://youtu.be/gU0Sxris0oU)
 [<img align="left" alt="YouTube" width="30%" src="https://i.ytimg.com/vi/m--qGFn0qwA/hq720.jpg" />](https://youtu.be/m--qGFn0qwA)
 [<img align="left" alt="YouTube" width="30%" src="https://i.ytimg.com/vi/rj-OkErkvPY/hq720.jpg" />](https://youtu.be/rj-OkErkvPY)
